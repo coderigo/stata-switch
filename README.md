@@ -1,11 +1,11 @@
 stata-switch
 ============
 
-A switch statement for Stata.
+A switch statement for [Stata](http://www.stata.com/).
 
 This was dusted off the bookshelf a few days ago when I needed to use Stata for the first time in a long time.
 
-This program gives your stata `.do` or `.ado` files something similar to JavaScript's (and other languages') [switch](http://www.w3schools.com/js/js_switch.asp) statment. It allows you to be a bit neater and replace multiple `if(){}` statements with one line of code.
+This program gives your Stata `.do` or `.ado` files something similar to JavaScript's (and other languages') [switch](http://www.w3schools.com/js/js_switch.asp) statment. It allows you to be a bit neater and replace multiple `if(){}` statements with one line of code.
 
 ## Installation
 
