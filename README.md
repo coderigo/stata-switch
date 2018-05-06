@@ -1,6 +1,8 @@
 stata-switch
 ============
 
+**Note: I don't work with Stata anymore and haven't had access to a license for a very long time. If you find this useful and would like to contribute fixes by all means submit PRs but I'm unfortunately unable to actively maintain it and check the source. Thanks!**
+
 A switch statement for [Stata](http://www.stata.com/).
 
 This was dusted off the bookshelf a few days ago when I needed to use Stata for the first time in a long time.
@@ -9,7 +11,7 @@ This program gives your Stata `.do` or `.ado` files something similar to JavaScr
 
 ## Installation
 
-###Option 1: Using the SSC archive
+### Option 1: Using the SSC archive
 
 This is available from within Stata with:
 
